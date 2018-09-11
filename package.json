@@ -22,8 +22,9 @@
   "devDependencies": {
     "mocha": "^5.2.0"
   },
-  "bin": {
-    "lasagnia": "./bin/runner.js"
-  },
-  "preferGlobal": true
+  "preferGlobal": false,
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "ora": "^3.0.0"
+  }
 }
