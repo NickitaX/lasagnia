@@ -8,12 +8,22 @@
   },
   "author": "Nick Shulhin msh@octo.com",
   "license": "ISC",
-  "keywords": ["integrity", "test", "check", "files", "structure"],
+  "keywords": [
+    "integrity",
+    "test",
+    "check",
+    "files",
+    "structure"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/NickitaX/lasagnia.git"
   },
   "devDependencies": {
     "mocha": "^5.2.0"
-  }
+  },
+  "bin": {
+    "lasagnia": "./bin/runner.js"
+  },
+  "preferGlobal": true
 }

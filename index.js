@@ -1,3 +1,9 @@
 const utils = require('./lib/utils')
 
-utils.checkFolders()
+function run() {
+  utils.checkFolders()
+}
+
+module.exports = {
+  run,
+}
