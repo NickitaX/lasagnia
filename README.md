@@ -40,7 +40,7 @@ To add Lasagnia as a part of Node automated script execution, add to your `packa
 }
 ```
 
-And after you will be able to run Lsagnia check with:
+And after you will be able to run Lasagnia check with:
 ``` bash
 npm run lasagnia_check
 ```
