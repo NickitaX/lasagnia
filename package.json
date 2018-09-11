@@ -1,0 +1,19 @@
+{
+  "name": "lasagnia",
+  "version": "1.0.0",
+  "description": "Module for project file integrity check",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**/*.js --exit"
+  },
+  "author": "Nick Shulhin msh@octo.com",
+  "license": "ISC",
+  "keywords": ["integrity", "test", "check", "files", "structure"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickitaX/lasagnia.git"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}

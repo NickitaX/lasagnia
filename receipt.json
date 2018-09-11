@@ -1,0 +1,14 @@
+{
+  "project": {
+    "folders": [
+      "lib",
+      "node_modules",
+      "test",
+      "test/lib"
+    ],
+    "files": [
+      "lib/utils.js",
+      "test/lib/utilsTest.js"
+    ]
+  }
+}
