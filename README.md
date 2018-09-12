@@ -1,6 +1,8 @@
 # Lasagnia 🥧
 `V1.0`
 
+[![Build Status](https://travis-ci.org/NickitaX/lasagnia.svg?branch=master)](https://travis-ci.org/NickitaX/lasagnia)
+
 > NPM module which helps with project file integrity check. Lasagnia checks for required files/folders declared in configuration file.
 
 ## Build Setup
